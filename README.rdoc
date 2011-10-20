@@ -1,0 +1,3 @@
+= Auto Percent
+
+Automatically sets the percent done to 100% on Resolved or Closed.
